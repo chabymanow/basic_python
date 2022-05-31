@@ -14,7 +14,6 @@ logo = '''
                       /_______________\\
 '''
 peopleList = {}
-bids = []
 morePeople = "y"
 
 clear()
